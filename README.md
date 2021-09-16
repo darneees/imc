@@ -1,2 +1,4 @@
-# imc
-programa em C, para calcular o índice de massa corporal.
+# Linguagem C
+
+Programa em C, para calcular o Ìndice de Massa Corporal.
+o meu primeiro projeto publicado aqui, algo basico.
